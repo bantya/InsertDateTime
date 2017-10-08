@@ -1,0 +1,44 @@
+[
+    {
+        "caption": "Insert Date Time: Insert Date",
+        "command": "insert_date_time",
+        "args": {
+            "command": "insert_date",
+        }
+    },
+    {
+        "caption": "Insert Date Time: Insert Time",
+        "command": "insert_date_time",
+        "args": {
+            "command": "insert_time",
+        }
+    },
+    {
+        "caption": "Insert Date Time: Insert Date and Time",
+        "command": "insert_date_time",
+        "args": {
+            "command": "insert_datetime",
+        }
+    },
+    {
+        "caption": "Insert Date Time: Insert Plain Date",
+        "command": "insert_date_time",
+        "args": {
+            "command": "insert_plain_date",
+        }
+    },
+    {
+        "caption": "Insert Date Time: Insert Plain Time",
+        "command": "insert_date_time",
+        "args": {
+            "command": "insert_plain_time",
+        }
+    },
+    {
+        "caption": "Insert Date Time: Insert Plain Date and Time",
+        "command": "insert_date_time",
+        "args": {
+            "command": "insert_plain_datetime",
+        }
+    },
+]
