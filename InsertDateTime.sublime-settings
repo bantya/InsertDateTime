@@ -1,0 +1,8 @@
+{
+    "date_format": "%Y-%m-%d",
+    "time_format": "%I:%M:%S",
+    "datetime_format": "%d-%m-%Y %I:%M:%S",
+    "plain_date_format": "%d%m%Y",
+    "plain_time_format": "%I%M%S",
+    "plain_datetime_format": "%d%m%Y %I%M%S",
+}
